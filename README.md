@@ -1,6 +1,6 @@
 # analyse-luxe
 
-# Analyse de la Résilience du Secteur du Luxe (2018-2026) 📈
+# Analyse de la Résilience du Secteur du Luxe (2018-2026) 
 
 ## Présentation du Projet
 Ce projet est réalisé dans le cadre d'un **projet tutoré de L3**. 
