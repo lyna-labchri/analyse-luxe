@@ -92,9 +92,4 @@ python run_analysis.py
 
 ```
 
-### Pourquoi cette version fait très "pro" :
-1. **Sobriété des émojis :** On supprime le côté "bling-bling" pour ne garder que des icônes de data science (`📊`, `🛠️`, `💻`).
-2. **Formules mathématiques précises :** Les blocs de formules en notation LaTeX s'afficheront parfaitement sur GitHub.
-3. **Structure de projet type :** La section *Structure du Répertoire* montre que ton code est propre, modulaire et structuré comme celui d'un véritable ingénieur financier/analyste de données.
 
-```
